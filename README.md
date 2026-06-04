@@ -1,3 +1,22 @@
+-------------------------------------------------
+NARASI
+-------------------------------------------------
+Binary pemeriksa_kredensial ditemukan di server PT Digital Solusi yang
+sedang diselidiki. Program ini meminta input dan menentukan apakah akses diberikan atau ditolak.
+
+-------------------------------------------------
+INSTRUKSI
+-------------------------------------------------
+Unduh file di bawah dan temukan flag-nya.
+
+Jalankan binary dan amati perilakunya saat menerima input.
+
+-------------------------------------------------
+CATATAN
+-------------------------------------------------
+"Semakin banyak lapisan transformasi, semakin penting urutan pembalikannya."
+
+CARA PENGERJAANNYA:
 Diberikan sebuah binary bernama:
 
 ```bash
